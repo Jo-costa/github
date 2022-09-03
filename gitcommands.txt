@@ -1,0 +1,10 @@
+git init - creates a new Git repository
+git status-
+git add-
+git commit -m "message" - 
+git log
+git checkout -lets you navigate between 
+	the branches created by git branch
+git branch- lists the branches
+git branch branchname - create a new branch
+git merge branchname
